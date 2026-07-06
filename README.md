@@ -22,9 +22,28 @@
 ---
 
 ## 📂 Proyectos destacados
-- 🔹 **Pastelería analisis** → Comparación de modelos ML para estimar mejores días de descuento en una pastelería
-- 🔹 **Chinook Database Analysis** → Segmentación de clientes y recomendación musical con SQL + Python  
-- 🔹 **Clinical Logistics Optimization** → Experiencia práctica en entregas urgentes y coordinación con equipos regulatorios  
+
+🔹 **Pastelería análisis**  
+- Objetivo: Estimar los mejores días para aplicar descuentos en una pastelería.  
+- Tecnologías: **Python (pandas, scikit-learn)**, modelos de **Machine Learning** (Regresión Lineal, Árboles de Decisión, Random Forest, Gradient Boosting).  
+- Resultados: Comparación de modelos en términos de precisión y tiempo de entrenamiento para recomendar estrategias de descuento óptimas.  
+
+---
+
+🔹 **Chinook Database Analysis**  
+- Objetivo: Segmentar clientes y recomendar música personalizada.  
+- Tecnologías: **SQL** (extracción de datos de tablas Customers, Invoices, Tracks, Genres), **Python (pandas, matplotlib, scikit-learn)**.  
+- Métodos: Clustering (K-Means, DBSCAN), sistemas de recomendación (colaborativo y basado en contenido).  
+- Resultados: Identificación de segmentos de clientes y recomendaciones musicales basadas en historial de compras y géneros favoritos.  
+
+---
+
+🔹 **Clinical Logistics Optimization**  
+- Objetivo: Optimizar entregas urgentes y coordinación en logística clínica.  
+- Tecnologías: **Herramientas de gestión logística**, reportes en **Excel/SQL**, metodologías de **procesos operativos y regulatorios**.  
+críticas, optimización de tiempos bajo presión.  
+- Resultados: Procesos más eficientes y reducción de errores en la cadena logística clínica.  
+
 
 ---
 
